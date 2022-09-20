@@ -29,8 +29,8 @@ body {
 }
 
 .page {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     position: absolute;
 }
 .page img {
@@ -40,8 +40,8 @@ body {
 }
 .left-page,
 .right-page {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     transform-style: preserve-3d;
 }
 .right-page {
