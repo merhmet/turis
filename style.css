@@ -47,8 +47,8 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
-    height: 50vh;
+    width: 80%;
+    height: 80vh;
 }
 .container{
     width: 80%;
@@ -65,8 +65,8 @@ section{
 }
 .card .img{
     position: absolute;
-    width: 50%;
-    height: 50%;
+    width: 80%;
+    height: 80%;
 }
 .card .img img{
     width: 50%;
