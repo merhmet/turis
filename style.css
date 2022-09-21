@@ -114,16 +114,16 @@ body {
 .page-3 p {
     margin: .5rem 0;
     color: var(--black-clr);
-    font-size: .9rem;
+    font-size: 1.9rem;
     font-weight: 500;
 }
 .page-3 button {
     background-color: transparent;
-    margin-top: 0.5rem;
+    margin-top: 0.9rem;
     padding: .5rem 1rem;
     border: 2px solid var(--red-clr);
-    font-size: .9rem;
-    border-radius: 20%;
+    font-size: 1.9rem;
+    border-radius: 40%;
     cursor: pointer;
     color: var(--red-clr);
     font-weight: 300;
