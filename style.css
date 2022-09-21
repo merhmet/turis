@@ -75,7 +75,7 @@ body {
 .page h1 {
     font-size: 1rem;
     position: absolute;
-    top: 1px;
+    top: 3px;
 }
 .page-1 h1 {
     left: 10px;
@@ -88,7 +88,7 @@ body {
 .page-1 {
     color: var(--white-clr);
     background-color: var(--red-clr);
-    outline: 1px solid var(--white-clr);
+    outline: 3px solid var(--white-clr);
 }
 .page-1 * {
     transform: scaleX(-1);
@@ -96,7 +96,7 @@ body {
 .page-1 img {
     width: 600px;
     height: 559px;
-    border: 1px solid var(--black-clr);
+    border: 3px solid var(--black-clr);
     border-radius: 1%;
 }
 
@@ -106,15 +106,15 @@ body {
 
 .page-3 {
     background-color: var(--white-clr);
-    padding: 0 1rem;
+    padding: 0 6rem;
     text-align: center;
     color: var(--red-clr);
-    outline: 1px solid var(--red-clr);
+    outline: 5px solid var(--red-clr);
 }
 .page-3 p {
-    margin: .5rem 0;
+    margin: .1rem 0;
     color: var(--black-clr);
-    font-size: 2.3rem;
+    font-size: 2.4rem;
     font-weight: 500;
 }
 .page-3 button {
@@ -126,7 +126,7 @@ body {
     border-radius: 40%;
     cursor: pointer;
     color: var(--red-clr);
-    font-weight: 300;
+    font-weight: 400;
     transition: 200ms ease-in-out bcakground-color,
                 200ms ease-in-out color;
 }
