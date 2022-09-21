@@ -94,8 +94,8 @@ body {
     transform: scaleX(-1);
 }
 .page-1 img {
-    width: 380px;
-    height: 340px;
+    width: 600px;
+    height: 550px;
     border: 1px solid var(--black-clr);
     border-radius: 1%;
 }
